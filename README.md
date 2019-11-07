@@ -1,2 +1,3 @@
-# rpg_game
-netsoc game jam
+# Philosophy Forest
+Small RPG game made for Netsoc Game Jam
+
